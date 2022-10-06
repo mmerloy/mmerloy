@@ -10,7 +10,7 @@
   <a href="https://vk.com/mmerloy">
      <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge" />
   </a>
-  <a href="">
+  <a href="mailto:a.mmerloy@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=89773960351">
@@ -22,7 +22,13 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
 ### :woman_technologist: About Me :
+- :telescope: I am a teacher at a programming school for children, but I am looking for a job as a Java programmer.
+
+- :seedling: I study testing and new technologies in Java.
+
+- :zap: In my free time I study at the university and get a bachelor's degree.
 
 ---
 
